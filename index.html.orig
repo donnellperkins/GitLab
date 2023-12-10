@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Web Page</title>
+    <!-- Add any additional meta tags, CSS links, or other head content here -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to DevOps Module 10 - Assignment Web Page!</h1>
+    </header>
+
+    <main>
+        <h1>My Favorite Quotes</h1>
+<<<<<<< HEAD
+        <blockquote>Be the change that you wish to see in the world. - JUSTIN BIEBER</blockquote>
+        <blockquote>The only way to do great work is to love what you do. - STEVE JOBS</blockquote>
+=======
+        <blockquote>Be the change that you wish to see in the world. - Mahatma Gandhi</blockquote>
+        <blockquote>The only way to do great work is to love what you do. - Steve Jobs</blockquote>
+>>>>>>> main
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Holidays</p>
+    </footer>
+</body>
+</html>
